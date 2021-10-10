@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Алексей Кудров](https://up.htmlacademy.ru/yii/2/user/1114557).
-* Наставник: [Александр Палян](https://htmlacademy.ru/profile/id1231107).
+* Наставник: [Александр Палян](https://up.htmlacademy.ru/yii/2/user/1231107).
 
 ---
 
