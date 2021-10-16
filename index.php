@@ -1,11 +1,11 @@
 <?php
 
-require_once ('src/Task.php');
+require_once 'vendor/autoload.php';
 
 // Создание объекта
 $customerId = 1;
 $executorId = 2;
-$task = new Task($customerId, $executorId);
+$task = new TaskForce\Task($customerId, $executorId);
 
 // Активация и настройка проверки утверждений
 // В php.ini заданы параметры:
